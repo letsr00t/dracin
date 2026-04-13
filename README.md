@@ -1,7 +1,7 @@
 # DracinBoss
 
-[![License](https://img.shields.io/github/license/Sansekai/DracinBoss)](https://github.com/Sansekai/DracinBoss/blob/main/LICENSE)
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Sansekai/DracinBoss)
+(https://github.com/letsr00t/dracin))]([[https://github.com/Sansekai/DracinBoss](https://github.com/letsr00t/dracin)](https://github.com/letsr00t/dracin/blob/main/LICENSE)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)]([[https://github.com/Sansekai/DracinBoss](https://github.com/letsr00t/dracin)](https://github.com/letsr00t/dracin))
 
 ![Preview](public/preview.png)
 
@@ -20,7 +20,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer Anda:
 1.  Buka terminal (Command Prompt/PowerShell).
 2.  Clone repository ini ke komputer Anda:
     ```bash
-    git clone https://github.com/Sansekai/DracinBoss.git
+    git clone [https://github.com/Sansekai/DracinBoss.git](https://github.com/letsr00t/dracin)
     ```
 3.  Masuk ke folder project:
     ```bash
